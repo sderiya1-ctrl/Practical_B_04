@@ -5,11 +5,9 @@
 ## 👨‍🎓 Students Information
 
 | Name | Enrollment Number | Practical Set |
-|------|------------------|---------------|
-
-| Deriya Shvet | 202504104610069 | Set B |
-
+|------|-------------------|---------------|
 | Pawar Bhavik | 202504104610070 | Set A |
+| Deriya Shvet | 202504104610069 | Set B |
 
 ---
 
