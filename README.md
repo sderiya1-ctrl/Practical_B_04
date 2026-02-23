@@ -6,8 +6,9 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|-------------------|---------------|
-| Pawar Bhavik | 202504104610070 | Set A |
 | Deriya Shvet | 202504104610069 | Set B |
+| Pawar Bhavik | 202504104610070 | Set A |
+
 
 ---
 
