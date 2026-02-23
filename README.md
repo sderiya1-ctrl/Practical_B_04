@@ -15,10 +15,10 @@
 ## 🏫 Logos
 
 ### University: Uka Tarsadia University (UTU)
-![UTU Logo](images/utu.png)
+![UTU Logo](images/utu_logo.png)
 
 ### Department: SRIMCA
-![SRIMCA Logo](images/srimca.png)
+![SRIMCA Logo](images/srimca_logo.png)
 
 ---
 
